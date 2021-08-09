@@ -1,2 +1,4 @@
-# quantum-website
-codeing, i am bad at html no bullying allow
+# Quantum Continued's Website
+- background image is taken by Virl from virl.xyz
+# Libraries Used
+- particles.js
